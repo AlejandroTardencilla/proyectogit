@@ -58,6 +58,10 @@ body {
 }
 /*FIN DE ENCABEZADO*/
 
+.planea{
+	float: right
+}
+
 .main{
 	background: #2E8BE4;
 	width: auto;
@@ -99,6 +103,13 @@ body {
 #carazo {
 	background: #13039A;
 	
+}
+#leon {
+	background: #E45409;
+	
+}
+#masaya{
+	background: #13039A;
 }
 #departamentos {
 	text-align: justify;
